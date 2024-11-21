@@ -3,9 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoji510&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoji510&layout=compact" />
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoji510&show_icons=true&theme=radical" />
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoji510&layout=compact" />
+  </div>
 </div>
+
 
 
 
