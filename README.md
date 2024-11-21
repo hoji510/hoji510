@@ -51,7 +51,7 @@
 <div align="center">
 <a href="https://naver.com">
   <img
-    src="https://img.shields.io/hoji510@naver.com/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"
+    src="https://img.shields.io/badge/hoji510@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" 
     alt="hoji510@naver.com" />
 </a>
 <a href="202003462@seoil.ac.kr">
