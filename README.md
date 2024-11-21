@@ -41,7 +41,8 @@
 
 <h3 align="center">🎮 Playing 🎮</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/League%20of%20Legends-0033A0?style=flat-square&logo=riot-games&logoColor=white"/></a>
+
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 <div align="center">
