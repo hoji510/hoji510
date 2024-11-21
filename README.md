@@ -49,19 +49,21 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://naver.com">
-    <img
-      src="https://img.shields.io/blog/hoji510@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <a href="202003462@seoil.ac.kr">
-    <img
-      src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://discord.com">
+<a href="https://naver.com">
+  <img
+    src="https://img.shields.io/hoji510@naver.com/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"
+    alt="hoji510@naver.com" />
+</a>
+<a href="202003462@seoil.ac.kr">
+  <img
+    src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+</a>
+<a href="https://discord.com">
   <img
     src="https://img.shields.io/badge/hoji510(Discord)-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
-  </a>
+</a>
 </div>
+
 
 
 
