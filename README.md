@@ -3,9 +3,10 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoji510" style="margin-right: 20;" />
   <img src="https://github-readme-stats.vercel.app/api?username=hoji510&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoji510" style="margin-right: 20;" />
 </div>
+
 
 
 
