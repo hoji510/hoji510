@@ -42,7 +42,7 @@
 <h3 align="center">🎮 Playing 🎮</h3>
 <div align="center">
   <a href="https://www.leagueoflegends.com/"><img src="https://img.shields.io/badge/League%20of%20Legends-0033A0?style=flat-square&logo=riot-games&logoColor=white"/></a>
-  <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/Howol510/"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=white"/></a>
 </div>
 
 <br>
