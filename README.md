@@ -57,6 +57,10 @@
     <img
       src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 
