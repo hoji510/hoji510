@@ -54,9 +54,10 @@
     src="https://img.shields.io/badge/hoji510@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" 
     alt="hoji510@naver.com" />
 </a>
-<a href="202003462@seoil.ac.kr">
+<a href="mailto:leejh010510@gmail.com">
   <img
-    src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+    src="https://img.shields.io/badge/leejh010510@gmail.com-4285F4?style=for-the-badge&logo=google&logoColor=white" 
+    alt="leejh010510@gmail.com" />
 </a>
 <a href="https://discord.com">
   <img
