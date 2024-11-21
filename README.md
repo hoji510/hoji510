@@ -49,7 +49,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-<a href="https://naver.com">
+<a href="mailto:hoji510@naver.com">
   <img
     src="https://img.shields.io/badge/hoji510@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" 
     alt="hoji510@naver.com" />
