@@ -49,7 +49,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://blog.naver.com/hoji510">
+  <a href="https://naver.com">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
