@@ -61,17 +61,13 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="202003462@seoil.ac.kr">
-    <img
-      src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
   <a href="https://blog.naver.com/hoji510">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
-  <a href="https://leejh010510@gmail.com">
+  <a href="202003462@seoil.ac.kr">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
 </div>
 
