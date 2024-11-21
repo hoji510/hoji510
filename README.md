@@ -57,9 +57,9 @@
     <img
       src="https://img.shields.io/badge/202003462@seoil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
-  <a href="https://discord.com/users/hoji510">
+  <a href="https://discord.com">
   <img
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
+    src="https://img.shields.io/badge/hoji510(Discord)-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
   </a>
 </div>
 
