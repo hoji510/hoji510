@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoji510&show_icons=true&bg_color=00000000" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoji510" />
 </div>
 
