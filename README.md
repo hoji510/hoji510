@@ -42,13 +42,7 @@
 <h3 align="center">🎮 Playing 🎮</h3>
 <div align="center">
   <a href="https://www.leagueoflegends.com/"><img src="https://img.shields.io/badge/League%20of%20Legends-0033A0?style=flat-square&logo=riot-games&logoColor=white"/></a>
-
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp
+  <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=white"/></a>
 </div>
 
 <br>
